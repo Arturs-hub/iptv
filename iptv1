@@ -1,0 +1,35 @@
+#EXTINF:-1,Alb Uk Plus
+rtmp://188.138.17.8:1935/albuk/albuk+.stream
+#EXTINF:-1,RROKUM TV
+rtmp://82.114.65.202/live//rrokumtv
+#EXTINF:-1,Vizion Plus
+rtmp://slive.vizionplus.tv:1935/live/livestream2
+#EXTINF:-1,TVSH
+http://str105mb.setplex.net:1935/str2iosmd5/tvsh_62554_5hfaa/playlist.m3u8
+#EXTINF:-1,RTK
+http://str105mb.setplex.net:1935/str2iosmd5/rtk_232_4dfaa/playlist.m3u
+#EXTINF:-1,Supersonic TV
+ http://str105mb.setplex.net:1935/str2iosmd5/2ios9ew/playlist.m3u8
+#EXTINF:-1,Vizion Plus
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_vizionplus_85674923/playlist.m3u8
+#EXTINF:-1,Klan Kosova
+http://str105mb.setplex.net:1935/str2iosmd5/10ios_klankosova_56468946/playlist.m3u8
+#EXTINF:-1,Super Folk
+http://str105mb.setplex.net:1935/str2iosmd5/11ios_stvfolk_32236215/playlist.m3u8
+#EXTINF:-1,Folk Plus
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_folkplus_34564765/playlist.m3u8
+#EXTINF:-1,TV Kopliku
+http://str105mb.setplex.net:1935/str2iosmd5/tvkop3542121/playlist.m3u8
+ #EXTINF:-1,TV Rozafa
+ http://str105mb.setplex.net:1935/str2iosmd5/7ios_rozafa_65226289/playlist.m3u8
+#EXTINF:-1,TV Iliret
+http://str105mb.setplex.net:1935/str2iosmd5/16ios_tviliret_26658914/playlist.m3u8
+
+#EXTINF:-1,Alsat M
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_alsatm_430958392/HasBahCa.m3u8
+#EXTINF:0,oranews hd
+http://81.7.13.162/hls/oranews/index.m3u8
+#EXTINF:-1,RTK1
+rtmp://wowza.rtkit.com/live/livestream
+#EXTINF:-1 tvg-logo="Live/btv.png", BTV (Bulgaria)
+http://46.10.150.113/ios/btvbglive/playlist.m3u8?b?b*t$
